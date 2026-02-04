@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Clarence Aguiar
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark" height="180" />
+  <img src="https://metrics.lecoq.io/clarenceaguiar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&theme=dark&hide_border=true" height="205" alt="Linguagens" />
 </p>
     
 <div style="display: inline_block"><br>
