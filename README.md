@@ -1,11 +1,13 @@
 ## Bem-vindo(a) ao perfil do Clarence Aguiar 😁
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/clarenceaguiar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
   </a>
-</div>
+  <a href="https://github.com/clarenceaguiar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=7&theme=dark" height="180" />
+  </a>
+</p>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
