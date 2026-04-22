@@ -12,9 +12,12 @@ Aqui estão algumas das tecnologias com as quais trabalho, com foco em desenvolv
 ### 📊 Estatísticas do GitHub
 Esses cards mostram meu engajamento e as linguagens que mais utilizo:
 
-![Estatísticas de Clarence](https://github-readme-stats.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+> **Nota:** Grande parte do meu trabalho em **Java** e **Python** foi desenvolvido em repositórios corporativos privados, por isso podem não estar totalmente refletidos no gráfico automático abaixo.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark"/>
+</p>
 
 ---
 
