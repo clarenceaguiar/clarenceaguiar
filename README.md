@@ -15,8 +15,8 @@ Esses cards mostram meu engajamento e as linguagens que mais utilizo:
 > **Nota:** Grande parte do meu trabalho em **Java** e **Python** foi desenvolvido em repositórios corporativos privados, por isso podem não estar totalmente refletidos no gráfico automático abaixo.
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clarenceaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clarenceaguiar&layout=compact&langs_count=6&theme=dark" />
 </p>
 
 ---
